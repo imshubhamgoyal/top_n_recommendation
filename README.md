@@ -6,4 +6,4 @@ https://drive.google.com/open?id=1YS0j2WAeaOdb0mLigSs5dMpWu2sYWJkM
 
 global_local_matrix.ipynb is used to create global similarity matrix as well as local similarity matrix for users belongin to different clusters.
 
-Evaluating_results.ipynb is used to predict ranking and evaluating the results with original rating to get the performance of the model proposed in paper given in ResearchPaper folder.
+EvaluatingResults.ipynb is used to predict ranking and evaluating the results with original rating to get the performance of the model proposed in paper given in ResearchPaper folder.
